@@ -1,0 +1,25 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GUI_Death.cs">
+    <Files>
+      <File FileName="..\faceRecogniton\Assets\RealTimeFaceRecognitionExample\WebCamTextureRealTimeFaceRecognitionExample\WebCamTextureRealTimeFaceRecognitionExample.cs" Line="28" Column="9" />
+      <File FileName="..\faceRecogniton\Assets\RealTimeFaceRecognitionExample\Scripts\Utils\WebCamTextureToMatHelper.cs" Line="6" Column="33" />
+      <File FileName="..\FaceRec\Assets\Hello.cs" Line="5" Column="24" />
+      <File FileName="Assets\Scripts\CameraFollowPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy_Slime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\effectHit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Fireball.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Particle_Destroy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Entity.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GUI_Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GUI_Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GUI_Death.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
